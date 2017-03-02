@@ -95,7 +95,11 @@
 
                 <table>
                     Hacer más eficientes las consultas
+                </table>
+                <table>
                     Valorar el tratamiento recibido
+                </table>
+                <table>
                     Poder llevar a cabo unas estadísticas sobre el tratamiento más adecuado para una enfermedad
                 </table>
 

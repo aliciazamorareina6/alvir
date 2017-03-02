@@ -79,29 +79,7 @@
 
 
 
-            <?php
-                    $pacientes = ["Ana"=> "09:30", "Antonio" => "11:25"]
-                    ?>
-                <table>
-                    <tr>
-                        <th>Nombre</th>
-                        <th>Hora</th>
-                    </tr>
-                    <?php
-                        foreach($pacientes as $nombre => $hora){
-                            ?>
-                    <tr>
-                        <td>
-                           <?php echo $nombre ?>
-                        </td>
-                        <td>
-                            <?php echo $hora ?>
-                        </td>
-                    </tr>
-                    <?php
-                        }
-                        ?>
-                </table>
+
 
 
 
